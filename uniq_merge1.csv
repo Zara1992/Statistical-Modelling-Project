@@ -1,0 +1,151 @@
+station,name,longitude,latitude,location,rating
+1 Slough Train Station,Mori Japanese Restaurant,-0.59156182,51.51135,"['70 High Street', 'Slough SL1 1EL', 'United Kingdom']",4.0
+1 Slough Train Station,Steakout,-0.59156182,51.51135,"['295-297 High Street', 'Slough SL1 1BD', 'United Kingdom']",4.0
+1 Slough Train Station,The Chip Box,-0.59156182,51.51135,"['39 Stoke Road', 'Slough SL2 5AH', 'United Kingdom']",4.5
+1 Slough Train Station,Caribbean Experience,-0.59156182,51.51135,"['41 Stoke Road', 'Slough SL2 5AH', 'United Kingdom']",4.5
+1 Slough Train Station,Harris + Hoole,-0.59156182,51.51135,"['Tesco Extra', 'Wellington Street', 'Slough SL1 1XW', 'United Kingdom']",4.0
+1 Slough Train Station,Spice 21,-0.59156182,51.51135,"['2 Alpha Street North', 'Slough SL1 1RB', 'United Kingdom']",4.0
+1 Slough Train Station,Nando's,-0.59156182,51.51135,"['258 High st', 'Slough SL1 1JU', 'United Kingdom']",3.0
+1 Slough Train Station,Shahzad Restaurant,-0.59156182,51.51135,"['12 Park Street', 'Slough SL1 1PD', 'United Kingdom']",3.5
+1 Slough Train Station,Al Fanouse,-0.59156182,51.51135,"['289 High St', 'Slough SL1 1BD', 'United Kingdom']",4.0
+1 Slough Train Station,Potato stand,-0.59156182,51.51135,"['High Street', 'Slough SL1 1YU', 'United Kingdom']",4.0
+1 Slough Train Station,Pizza Express Restaurants,-0.59156182,51.51135,"['80 High Street', 'Slough SL1 1EL', 'United Kingdom']",4.0
+1 Slough Train Station,Pizza Hut,-0.59156182,51.51135,"['59 Queensmere', 'Slough SL1 1DD', 'United Kingdom']",4.0
+1 Slough Train Station,Milano Pizza,-0.59156182,51.51135,"['16 High Street', 'Slough SL1 1EQ', 'United Kingdom']",3.0
+1 Slough Train Station,McDonald's,-0.59156182,51.51135,"['172 High Street', 'Slough SL1 1JP', 'United Kingdom']",4.0
+1 Slough Train Station,Prestige,-0.59156182,51.51135,"['117 High Street', 'Slough SL1 1DH', 'United Kingdom']",3.5
+1 Slough Train Station,Khyber Pass,-0.59156182,51.51135,"['3 Church Street', 'Slough SL1 1PQ', 'United Kingdom']",3.0
+1 Slough Train Station,Burger King,-0.59156182,51.51135,"['150 High Street', 'Slough SL1 1JP', 'United Kingdom']",2.5
+1 Slough Train Station,Pepe's Piri Piri,-0.59156182,51.51135,"['256 High Street', 'Slough SL1 1JU', 'United Kingdom']",2.0
+1 Slough Train Station,Chicago Chicken & Burgers,-0.59156182,51.51135,"['14 Park Street', 'Slough SL1 1PD', 'United Kingdom']",1.5
+2 Burnham Train Station,Tummies Bistro,-0.6452942,51.523823,"['5 Station Road', 'Cippenham SL1 6JJ', 'United Kingdom']",4.5
+2 Burnham Train Station,Burnham Fish and Chips,-0.6452942,51.523823,"['164 Burnham Lane', 'Burnham SL1 6LE', 'United Kingdom']",5.0
+2 Burnham Train Station,The Kais,-0.6452942,51.523823,"['467 Bath Road', 'Slough SL1 6AA', 'United Kingdom']",5.0
+2 Burnham Train Station,Monihar Tandoori,-0.6452942,51.523823,"['168 Burnham Lane', 'Slough SL1 6LE', 'United Kingdom']",4.0
+2 Burnham Train Station,Village Fish & Chip & Kebab,-0.6452942,51.523823,"['132 Lower Cippenham Lane', 'Slough SL1 5EA', 'United Kingdom']",4.0
+2 Burnham Train Station,Cinnamon Spice,-0.6452942,51.523823,"['9 Harrison Way', 'Cippenham', 'Slough SL1', 'United Kingdom']",4.0
+2 Burnham Train Station,The Source,-0.6452942,51.523823,"['875 Plymouth Road', 'Sl1 4lp', 'Slough SL1', 'United Kingdom']",1.0
+2 Burnham Train Station,Giovani's,-0.6452942,51.523823,"['136 Lower Cippenham Lane', 'Slough SL1 5EA', 'United Kingdom']",3.0
+3 Slough Trading Estate,Barn Tandoori,-0.62563661,51.516508,"['Bath Road', 'Slough SL1 3SR', 'United Kingdom']",4.0
+3 Slough Trading Estate,Slough Kebabs,-0.62563661,51.516508,"['111 Bath Road', 'Slough SL1 3UW', 'United Kingdom']",4.5
+3 Slough Trading Estate,Chicken Delite,-0.62563661,51.516508,"['238 Farnham Road', 'Slough SL1 4XE', 'United Kingdom']",5.0
+3 Slough Trading Estate,K Takeaway,-0.62563661,51.516508,"['127 Earls Lane', 'Slough SL1 5TD', 'United Kingdom']",4.0
+4 Slough Council,Tang's,-0.607722,51.510629,"['Unit N77', 'Queensmere Shopping High Street', 'Slough SL1 2TW', 'United Kingdom']",4.0
+4 Slough Council,Pizza GoGo,-0.607722,51.510629,"['82 Bath Road', 'Slough SL1 3SR', 'United Kingdom']",1.0
+4 Slough Council,Pro Tuga,-0.607722,51.510629,"['High Street', 'Slough SL1 1LN', 'United Kingdom']",2.0
+4 Slough Council,Cafe 3G,-0.607722,51.510629,"['261 High Street', 'Slough SL1 1BN', 'United Kingdom']",2.0
+5 Trelawney Avenue,The Tummy Fillers,-0.554815,51.501937,"['260 Trelawney Avenue', 'Slough SL3 7UD', 'United Kingdom']",5.0
+5 Trelawney Avenue,The Montagu Arms,-0.554815,51.501937,"['374 London Road', 'Langley', 'Slough SL3 7HX', 'United Kingdom']",3.5
+5 Trelawney Avenue,Toby Carvery,-0.554815,51.501937,"['399 London Road', 'Slough SL3 8PS', 'United Kingdom']",3.5
+5 Trelawney Avenue,Panjab Restaurant,-0.554815,51.501937,"['118 London Road', 'Langely', 'Slough SL3 7HS', 'United Kingdom']",4.0
+5 Trelawney Avenue,Nasima Tandoori,-0.554815,51.501937,"['260 Trelawney Avenue', 'Slough SL3', 'United Kingdom']",3.0
+5 Trelawney Avenue,Haven Fish Bar,-0.554815,51.501937,"['228 Trelawney Avenue', 'Slough SL3 7UD', 'United Kingdom']",4.0
+5 Trelawney Avenue,Fish Chef,-0.554815,51.501937,"['116 London Road', 'Slough SL3 7HS', 'United Kingdom']",3.0
+7 Sutton Lane,Chats Bar at Heathrow/Windsor Marriott,-0.534806,51.489517,"['Ditton Rd', 'Berkshire SL3 8PT', 'Slough SL3 8PT', 'United Kingdom']",4.5
+7 Sutton Lane,Tratts,-0.534806,51.489517,"['Holiday Inn Express', 'Heathrow T5', 'Slough SL3 8QB', 'United Kingdom']",2.0
+7 Sutton Lane,New Oceans,-0.534806,51.489517,"['8 Cherwell Close', 'Slough SL3 8XB', 'United Kingdom']",2.0
+7 Sutton Lane,Market Kitchen,-0.534806,51.489517,"['Ditton Road Langley', 'Slough SL3 8PT', 'United Kingdom']",3.0
+8 Yarmouth Road,Balboas,-0.616663,51.519919,"['263 Farnham Road', 'Slough SL2 1HA', 'United Kingdom']",3.5
+8 Yarmouth Road,Lebanese Grill,-0.616663,51.519919,"['316 Farnham Road', 'Slough SL2 1BT', 'United Kingdom']",4.0
+11 Britwell,Jimmys Kebabs,-0.63102588,51.531906,"['53 Wentworth Avenue', 'Slough SL2 2DS', 'United Kingdom']",0.0
+11 Britwell,Britwell Fish Shop,-0.63102588,51.531906,"['49 Wentworth Avenue', 'Slough SL2 2DS', 'United Kingdom']",0.0
+11 Britwell,Ming Chinese,-0.63102588,51.531906,"['254 Scafell Road', 'Slough SL2 1TZ', 'United Kingdom']",0.0
+11 Britwell,Royal Village Indian Take Away,-0.63102588,51.531906,"['57 Wentworth Avenue', 'Slough SL2 2DS', 'United Kingdom']",0.0
+11 Britwell,Tandoori Express,-0.63102588,51.531906,"['57 Wentworth Avenue', 'Slough SL2 2DS', 'United Kingdom']",0.0
+11 Britwell,Darwins Deli,-0.63102588,51.531906,"['911 Yeovil Road', 'Slough SL1 4JG', 'United Kingdom']",0.0
+11 Britwell,New Garden,-0.63102588,51.531906,"['75 Wentworth Avenue', 'Slough SL2 2DS', 'United Kingdom']",0.0
+11 Britwell,Ming Takeaway,-0.63102588,51.531906,"['Scafell Road', 'Slough SL2 1TZ', 'United Kingdom']",0.0
+11 Britwell,Seven Oceans,-0.63102588,51.531906,"['410 Farnham Road', 'Slough SL2 1JA', 'United Kingdom']",0.0
+13 Arbour Park,Aromat Kuchni,-0.58962592,51.519485,"['19a Stoke Road', 'Slough Berkshire', 'Slough SL2 5AH', 'United Kingdom']",0.0
+13 Arbour Park,Milkshake World,-0.58962592,51.519485,"['Tesco Extra Brunel Way', 'Wellington Street', 'Slough SL1 1XW', 'United Kingdom']",0.0
+13 Arbour Park,J Bansal Fish & Chips Shop,-0.58962592,51.519485,"['16 Mirador Crescent', 'Slough SL2 5JX', 'United Kingdom']",0.0
+13 Arbour Park,Roxy Chicken,-0.58962592,51.519485,"['Upton Lea Parade', 'Wexham Road', 'Slough SL2 5JU', 'United Kingdom']",0.0
+13 Arbour Park,Taj Tandoori Restaurant,-0.58962592,51.519485,"['7 Berkshire House Upton Lea Parade Wexham Road', 'Slough SL2 5JU', 'United Kingdom']",0.0
+13 Arbour Park,Broadway Tandoori Restaurant,-0.58962592,51.519485,"['19 Stoke Road', 'Slough SL2 5AH', 'United Kingdom']",0.0
+13 Arbour Park,Walford Fish Bar,-0.58962592,51.519485,"['14 Mirador Crescent', 'Slough SL2 5JX', 'United Kingdom']",0.0
+13 Arbour Park,New Loon Sing Take Away,-0.58962592,51.519485,"['25 Stoke Road', 'Slough SL2 5AH', 'United Kingdom']",0.0
+13 Arbour Park,Southern Fried & Pizza,-0.58962592,51.519485,"['1a Baylis Parade', 'Slough SL1 3LF', 'United Kingdom']",0.0
+13 Arbour Park,New Loon Moon,-0.58962592,51.519485,"['1 Baylis Parade', 'Slough SL1 3LF', 'United Kingdom']",0.0
+13 Arbour Park,Curry & Kebabs,-0.58962592,51.519485,"['Baylis Parade', 'Slough SL1 3LF', 'United Kingdom']",0.0
+13 Arbour Park,Gaudios,-0.58962592,51.519485,"['31-33 Stoke Road', 'Slough SL2 5AH', 'United Kingdom']",0.0
+13 Arbour Park,Lakasbah Halal Meats,-0.58962592,51.519485,"['27 Stoke Road', 'Slough SL2 5AH', 'United Kingdom']",0.0
+13 Arbour Park,Sky Fries,-0.58962592,51.519485,"['38 Stoke Poges Lane', 'Slough SL1 3PG', 'United Kingdom']",0.0
+13 Arbour Park,Lucky House,-0.58962592,51.519485,"['17 Baylis Parade', 'Slough SL1 3LF', 'United Kingdom']",0.0
+14 Wexham Road,Royal Capital,-0.57820873,51.518459,"['104 Knolton Way', 'Slough SL2 5TL', 'United Kingdom']",0.0
+16 Langley,Millionaires Punjabi Cuisine,-0.54318756,51.507257,"['62 Station Road', 'Langley', 'Slough SL3 8BT', 'United Kingdom']",0.0
+16 Langley,Jacks,-0.54318756,51.507257,"['16 Harrow Market', 'Slough SL3 8HJ', 'United Kingdom']",0.0
+16 Langley,Nick's Fish and Chips,-0.54318756,51.507257,"['16 Harrow Market', 'Slough SL3 8HJ', 'United Kingdom']",0.0
+16 Langley,Pizza Bien Manger,-0.54318756,51.507257,"['254 Tralawney Avenue', 'Colnbrook with Poyle SL3 7UD', 'United Kingdom']",0.0
+16 Langley,Oriental Express,-0.54318756,51.507257,"['266 High Street', 'Langley', 'Slough SL3 8HD', 'United Kingdom']",0.0
+16 Langley,Subway,-0.54318756,51.507257,"['250 High Street', 'Langley', 'Slough SL3 8HA', 'United Kingdom']",0.0
+16 Langley,Langley Fish & Chips,-0.54318756,51.507257,"['258 High Street', 'Langley', 'Slough SL3 8HA', 'United Kingdom']",0.0
+16 Langley,G T Road,-0.54318756,51.507257,"['260 Trelawney Avenue', 'Slough SL3 7UD', 'United Kingdom']",0.0
+16 Langley,Loon Tin,-0.54318756,51.507257,"['33 Willoughby Road', 'Slough SL3 8JH', 'United Kingdom']",0.0
+16 Langley,Kinara Restaurant,-0.54318756,51.507257,"['286 High Street', 'Langley', 'Slough SL3 8HF', 'United Kingdom']",0.0
+16 Langley,Lotus Kitchen,-0.54318756,51.507257,"['98a Meadfield Road', 'Slough SL3 8HR', 'United Kingdom']",0.0
+16 Langley,China Town,-0.54318756,51.507257,"['250 Trelawney Avenue', 'Slough SL3 7UD', 'United Kingdom']",0.0
+17 Wexham Hospital,The Red Lion,-0.5767782,51.532348,"['Stoke Green', 'Stoke Poges', 'Slough SL2 4HN', 'United Kingdom']",4.0
+17 Wexham Hospital,The Garden Room,-0.5767782,51.532348,"['Stoke Place', 'Stoke Green', 'Stoke Poges SL2 4HT', 'United Kingdom']",4.0
+1 Slough Train Station,Krispy Kreme,-0.59156182,51.51135,"Tesco Extra Brunel Way (Wellington St), Slough, Berkshire, SL1 1XW",7.1
+1 Slough Train Station,The Soul Deli,-0.59156182,51.51135,"The Porter Building, Brunel Way, Slough, Berkshire",0.0
+1 Slough Train Station,The Cafe,-0.59156182,51.51135,"A4 Brunel Way, Slough, SL1 1XW",0.0
+1 Slough Train Station,KFC,-0.59156182,51.51135,"The Queensmere Centre, Slough, Berkshire, SL1 1DG",5.9
+1 Slough Train Station,Greggs,-0.59156182,51.51135,"1 Mackenzie St, Slough, Berkshire, SL1 1XQ",6.4
+1 Slough Train Station,Roosters Piri Piri,-0.59156182,51.51135,"88-90 High St, Slough, Berkshire, SL1 1EL",6.8
+1 Slough Train Station,PizzaExpress,-0.59156182,51.51135,"80 High St, Slough, SL1 1EL",6.6
+1 Slough Train Station,Ali's Fish & Chips,-0.59156182,51.51135,,0.0
+1 Slough Train Station,Unofficial M&S Lunch Bench,-0.59156182,51.51135,,0.0
+1 Slough Train Station,Jerry's Pizza,-0.59156182,51.51135,"66 High St, Slough, SL1 1EL",0.0
+2 Burnham Train Station,Roll With It,-0.6452942,51.523823,"Lower Car Park, Burnham Railway Station",0.0
+2 Burnham Train Station,Pizza 4 U,-0.6452942,51.523823,,0.0
+2 Burnham Train Station,Pizza & Kebab Express,-0.6452942,51.523823,"406 Bath Rd, Slough, SL1 6JA",0.0
+2 Burnham Train Station,China Kitchen,-0.6452942,51.523823,"405 Bath Rd, Slough, SL1 5QL",0.0
+2 Burnham Train Station,Kai's Restaurant,-0.6452942,51.523823,"467 Bath Rd, Colnbrook with Poyle, Berkshire, SL1 6AA",0.0
+2 Burnham Train Station,Rocky's Slough,-0.6452942,51.523823,"158 Burnham Lane, Slough, Berkshire, SL1 6LE",0.0
+2 Burnham Train Station,Burnham Fish & Chips,-0.6452942,51.523823,"164 Burnham Lane, Colnbrook with Poyle, Berkshire, SL1 6LE",0.0
+3 Slough Trading Estate,The king and i,-0.62563661,51.516508,"Bath Rd, Colnbrook with Poyle, Berkshire",0.0
+3 Slough Trading Estate,Thyme,-0.62563661,51.516508,"40 Liverpool Rd, Slough, Berkshire, SL1 4QZ",0.0
+3 Slough Trading Estate,Papa Johns Pizza,-0.62563661,51.516508,"Buckingham Ave, Slough, SL1 4PG",0.0
+3 Slough Trading Estate,Ann's Pantry,-0.62563661,51.516508,"34 Buckingham Ave, Slough, SL1 4QA",0.0
+3 Slough Trading Estate,J K's Fish & Chips,-0.62563661,51.516508,"8 Stoney Meade, Slough, Berkshire, SL1 2YL",0.0
+3 Slough Trading Estate,Wokhei Limited,-0.62563661,51.516508,"Slough, SL1 1XQ",0.0
+3 Slough Trading Estate,Priestley Bakers,-0.62563661,51.516508,"121 Windsor House Yarmouth Rd, Slough, SL1 4HY",0.0
+4 Slough Council,Salt Hill Cafe,-0.607722,51.510629,"Salt Hill Park (Bath Rd.), Slough",0.0
+4 Slough Council,Kashmiri Karahi,-0.607722,51.510629,"Salt Hill Park (Bath Rd), Slough, SL1 3SR",5.3
+4 Slough Council,Domino's Pizza,-0.607722,51.510629,"115 Bath Rd, Slough, SL1 3UW",6.4
+4 Slough Council,3 Tans Cafe,-0.607722,51.510629,"109 Bath Rd, Slough, SL1 3UW",0.0
+4 Slough Council,Ambala,-0.607722,51.510629,,0.0
+4 Slough Council,Bugis Street Brasserie,-0.607722,51.510629,"Copthorne Hotel, Cippenham Lane (Cippenham Ln), Slough, Berkshire, SL1 2YE",0.0
+4 Slough Council,Kay's,-0.607722,51.510629,,0.0
+5 Trelawney Avenue,Hot Kebab,-0.554815,51.501937,"116 London Rd, Slough, Berkshire, SL3 7HS",0.0
+5 Trelawney Avenue,Nicks Fish & Chips,-0.554815,51.501937,"16 Harrow Market, Slough, Berkshire, SL3 8HJ",0.0
+5 Trelawney Avenue,Reds Cafe,-0.554815,51.501937,"292 High St, Colnbrook with Poyle, Berkshire, SL3 8HF",0.0
+5 Trelawney Avenue,Smokey's,-0.554815,51.501937,,0.0
+5 Trelawney Avenue,Sangeetha Vegetarian Restaurant,-0.554815,51.501937,"3 Meadfield Rd, Slough, Berkshire",0.0
+5 Trelawney Avenue,Montague Arms Harvester,-0.554815,51.501937,"London Rd, Slough, Berkshire, SL3 7HX",5.4
+7 Sutton Lane,Atlantis Lounge and Restaurant,-0.534806,51.489517,"Slough, Berkshire, SL3 8QB",0.0
+7 Sutton Lane,Wild Bean Café,-0.534806,51.489517,"London Rd, Slough, SL3 8QE",0.0
+7 Sutton Lane,Brasserie Centrale,-0.534806,51.489517,"Ditton Rd, Slough, Berkshire, SL3 8PT",5.9
+7 Sutton Lane,Pizza da Marco,-0.534806,51.489517,"Ditton Rd, Slough, Berkshire, SL3 8PT",0.0
+8 Yarmouth Road,Tops Pizza,-0.616663,51.519919,"222 Farnham Rd, Slough, SL1 4XE",0.0
+8 Yarmouth Road,German Doner Kebab,-0.616663,51.519919,"248 Farnham Rd, Slough, Berkshire, SL1 4XE",0.0
+8 Yarmouth Road,Exotic Karahi,-0.616663,51.519919,"262-264 Farnham Rd, Colnbrook with Poyle, Berkshire, SL1 4XL",6.1
+9 Bath Road Shopping Centre,Village Fish & Chips,-0.635472,51.520432,"132 Lower Cippenham Lane, Slough, SL1 5EA",0.0
+9 Bath Road Shopping Centre,K's Flame Grill,-0.635472,51.520432,,0.0
+10 Chalvey High Street,Star Karahi,-0.60676999,51.506562,"11 Hershal St, Slough, SL1 1PB",0.0
+12 Windsor Road,Mr Cod,-0.59673975,51.507274,"High St, Colnbrook with Poyle, Berkshire",0.0
+12 Windsor Road,The Rising Sun,-0.59673975,51.507274,"18-20 Windsor Rd, Slough, Berkshire, SL1 2EJ",0.0
+12 Windsor Road,Swagath,-0.59673975,51.507274,"100 High St, Slough, Berkshire, SL1 1HL",0.0
+12 Windsor Road,Green Chilli,-0.59673975,51.507274,,0.0
+12 Windsor Road,Cheat Meals,-0.59673975,51.507274,"Slough, Berkshire, SL1 1EL",0.0
+12 Windsor Road,King Kebabs,-0.59673975,51.507274,"High St, Slough",0.0
+13 Arbour Park,The Grill Garden,-0.58962592,51.519485,"110 Stoke Rd, Slough, Berkshire, SL2 5AP",0.0
+13 Arbour Park,Southern Fried Chicken,-0.58962592,51.519485,"112-114 High St, Slough, SL1 1JQ",0.0
+13 Arbour Park,Maharaja Sweets,-0.58962592,51.519485,"8 Grasmere Parade Wexham Rd, Slough, SL2 5HZ",0.0
+13 Arbour Park,Meghna Tandoori,-0.58962592,51.519485,"7 Upton Lea Parade, Slough, SL2 5JU",0.0
+14 Wexham Road,"So Asia, Slough",-0.57820873,51.518459,"Colnbrook with Poyle, Berkshire",0.0
+15 The Curve,Gino's,-0.59497885,51.510246,"82 High St, Slough, SL1 1EL",0.0
+15 The Curve,Rickshaw Road,-0.59497885,51.510246,"Prudential Buildings, 3-4 William St, Slough, Berkshire, SL1 1XY",0.0
+16 Langley,Lotus Chinese Kitchen,-0.54318756,51.507257,,0.0
+16 Langley,Shamrock's,-0.54318756,51.507257,"12 Parlaunt Rd, Slough, SL3 8BB",0.0
+17 Wexham Hospital,Courtyard Restaurant,-0.5767782,51.532348,"Slough, Berkshire",0.0
