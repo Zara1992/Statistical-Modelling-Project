@@ -28,12 +28,12 @@ station,name,longitude,latitude,location,rating
 3 Slough Trading Estate,Wokhei Limited,-0.62563661,51.516508,"Slough, SL1 1XQ",0.0
 3 Slough Trading Estate,Subway,-0.62563661,51.516508,"23B Buckingham Ave, Slough, SL1 4QA",5.3
 3 Slough Trading Estate,Priestley Bakers,-0.62563661,51.516508,"121 Windsor House Yarmouth Rd, Slough, SL1 4HY",0.0
-3 Slough Trading Estate,McDonald's,-0.62563661,51.516508,"Buckingham Ave/Bestobell Rd, Slough, SL1 4PN",5.6
+3 Slough Trading Estate,McDonald's,-0.62563661,51.516508,"Buckingham Ave/Bestobell Rd, Slough, SL1 4PN",5.4
 4 Slough Council,Salt Hill Cafe,-0.607722,51.510629,"Salt Hill Park (Bath Rd.), Slough",0.0
 4 Slough Council,Kashmiri Karahi,-0.607722,51.510629,"Salt Hill Park (Bath Rd), Slough, SL1 3SR",5.3
-4 Slough Council,Domino's Pizza,-0.607722,51.510629,"115 Bath Rd, Slough, SL1 3UW",6.4
+4 Slough Council,Domino's Pizza,-0.607722,51.510629,"115 Bath Rd, Slough, SL1 3UW",6.5
 4 Slough Council,Burger King,-0.607722,51.510629,"15 Bath Rd, Slough, Berkshire, SL1 3UF",5.8
-4 Slough Council,Slough Kebabs,-0.607722,51.510629,"111 Bath Rd, Slough, Berkshire, SL1 3UW",6.0
+4 Slough Council,Slough Kebabs,-0.607722,51.510629,"111 Bath Rd, Slough, Berkshire, SL1 3UW",5.7
 4 Slough Council,Pizza Hut,-0.607722,51.510629,"123 Bath Rd, Slough, SL1 3UW",6.2
 4 Slough Council,3 Tans Cafe,-0.607722,51.510629,"109 Bath Rd, Slough, SL1 3UW",0.0
 4 Slough Council,Ambala,-0.607722,51.510629,,0.0
@@ -56,9 +56,9 @@ station,name,longitude,latitude,location,rating
 7 Sutton Lane,Pizza da Marco,-0.534806,51.489517,"Ditton Rd, Slough, Berkshire, SL3 8PT",0.0
 7 Sutton Lane,Toby Carvery,-0.534806,51.489517,"399 London Rd, Slough, SL3 8PS",5.2
 8 Yarmouth Road,Priestley Bakers,-0.616663,51.519919,"121 Windsor House Yarmouth Rd, Slough, SL1 4HY",0.0
-8 Yarmouth Road,McDonald's,-0.616663,51.519919,"Buckingham Ave/Bestobell Rd, Slough, SL1 4PN",5.6
+8 Yarmouth Road,McDonald's,-0.616663,51.519919,"Buckingham Ave/Bestobell Rd, Slough, SL1 4PN",5.4
 8 Yarmouth Road,Tops Pizza,-0.616663,51.519919,"222 Farnham Rd, Slough, SL1 4XE",0.0
-8 Yarmouth Road,KFC,-0.616663,51.519919,"Farnham Rd (Edinburgh Av), Slough, Berkshire, SL1 4UN",5.1
+8 Yarmouth Road,KFC,-0.616663,51.519919,"Farnham Rd (Edinburgh Av), Slough, Berkshire, SL1 4UN",5.3
 8 Yarmouth Road,German Doner Kebab,-0.616663,51.519919,"248 Farnham Rd, Slough, Berkshire, SL1 4XE",0.0
 8 Yarmouth Road,Chicken Delite,-0.616663,51.519919,"238 Farnham Rd, Slough, Berkshire, SL1 4XE",0.0
 8 Yarmouth Road,Exotic Karahi,-0.616663,51.519919,"262-264 Farnham Rd, Colnbrook with Poyle, Berkshire, SL1 4XL",6.1
@@ -81,7 +81,7 @@ station,name,longitude,latitude,location,rating
 10 Chalvey High Street,Burger King,-0.60676999,51.506562,"15 Bath Rd, Slough, Berkshire, SL1 3UF",5.8
 10 Chalvey High Street,Bugis Street Brasserie,-0.60676999,51.506562,"Copthorne Hotel, Cippenham Lane (Cippenham Ln), Slough, Berkshire, SL1 2YE",0.0
 10 Chalvey High Street,Star Karahi,-0.60676999,51.506562,"11 Hershal St, Slough, SL1 1PB",0.0
-10 Chalvey High Street,Domino's Pizza,-0.60676999,51.506562,"115 Bath Rd, Slough, SL1 3UW",6.4
+10 Chalvey High Street,Domino's Pizza,-0.60676999,51.506562,"115 Bath Rd, Slough, SL1 3UW",6.5
 10 Chalvey High Street,PizzaExpress,-0.60676999,51.506562,"80 High St, Slough, SL1 1EL",6.6
 10 Chalvey High Street,Roosters Piri Piri,-0.60676999,51.506562,"88-90 High St, Slough, Berkshire, SL1 1EL",6.8
 10 Chalvey High Street,Salt Hill Cafe,-0.60676999,51.506562,"Salt Hill Park (Bath Rd.), Slough",0.0
